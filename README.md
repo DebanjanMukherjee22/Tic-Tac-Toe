@@ -1,7 +1,5 @@
 # Tic-Tac-Toe
 
-# Tic-Tac-Toe Game
-
 A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to take turns placing X's and O's on a 3x3 grid. The first player to align three of their symbols vertically, horizontally, or diagonally wins.
 
 ## Features
